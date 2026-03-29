@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Kids Doodle Desk Terms of Use</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main class="page">
+        <section class="hero">
+            <div class="eyebrow">Kids Doodle Desk</div>
+            <h1>Terms of Use</h1>
+            <p>
+                These Terms of Use govern access to and use of the Kids Doodle Desk app and the optional Creator Tools subscription.
+            </p>
+            <div class="meta">Effective date: March 29, 2026</div>
+            <div class="chip-row">
+                <span class="chip">Auto-renewable subscription</span>
+                <span class="chip">Parent-managed purchases</span>
+                <span class="chip">Apple billing</span>
+            </div>
+        </section>
+
+        <div class="grid">
+            <section class="card">
+                <h2>1. Agreement</h2>
+                <p>
+                    These Terms are between you and <strong>[DEVELOPER LEGAL NAME]</strong>, not Apple.
+                    By downloading, accessing, or using Kids Doodle Desk, you agree to these Terms.
+                </p>
+                <p>
+                    If you are allowing a child to use the app, you are responsible for supervising that use.
+                </p>
+            </section>
+
+            <section class="card">
+                <h2>2. License</h2>
+                <p>
+                    Subject to these Terms, we grant you a personal, limited, non-exclusive, non-transferable,
+                    revocable license to use the app on Apple-branded devices you own or control, as permitted by
+                    the Apple Media Services terms and applicable usage rules.
+                </p>
+            </section>
+
+            <section class="card">
+                <h2>3. Free features and subscriptions</h2>
+                <p>
+                    The app includes free drawing features and may offer optional auto-renewable subscriptions
+                    for Creator Tools.
+                </p>
+                <ul class="link-list">
+                    <li>Subscription title: Creator Tools</li>
+                    <li>Durations may include monthly and yearly plans, as shown in the app and App Store.</li>
+                    <li>The subscription auto-renews unless cancelled at least 24 hours before the end of the current billing period.</li>
+                    <li>Your Apple account will be charged for renewal within 24 hours before the current period ends.</li>
+                    <li>Any free trial automatically converts to a paid subscription unless cancelled before the trial ends.</li>
+                    <li>You can manage or cancel subscriptions in your Apple ID account settings.</li>
+                    <li>Apple handles billing, payment methods, and refund processing.</li>
+                </ul>
+                <p>
+                    The price displayed in the app or App Store at the time of purchase controls.
+                </p>
+            </section>
+
+            <section class="card">
+                <h2>4. Restore and account responsibilities</h2>
+                <p>
+                    If you previously purchased a subscription, you can use the in-app restore flow to recover access,
+                    subject to Apple account and StoreKit entitlement status.
+                </p>
+                <p>
+                    You are responsible for maintaining access to your Apple account and for any activity that occurs
+                    through devices under your control.
+                </p>
+            </section>
+
+            <section class="card">
+                <h2>5. User content</h2>
+                <p>
+                    You retain rights to drawings and images you create using the app. You are responsible for any content
+                    you export or share and for making sure that content does not violate law or the rights of others.
+                </p>
+            </section>
+
+            <section class="card">
+                <h2>6. Acceptable use</h2>
+                <ul class="link-list">
+                    <li>Do not misuse the app, attempt to interfere with its operation, or bypass parent-gated areas.</li>
+                    <li>Do not reverse engineer, decompile, or disassemble the app except where applicable law permits it.</li>
+                    <li>Do not use the app in a way that infringes intellectual property or violates applicable law.</li>
+                </ul>
+            </section>
+
+            <section class="card">
+                <h2>7. Intellectual property</h2>
+                <p>
+                    The app, including its code, interface, graphics, branding, and non-user content, is owned by
+                    <strong>[DEVELOPER LEGAL NAME]</strong> or its licensors and is protected by applicable intellectual property laws.
+                </p>
+            </section>
+
+            <section class="card">
+                <h2>8. Support and maintenance</h2>
+                <p>
+                    We are responsible for providing support for the app. Apple has no obligation to furnish maintenance
+                    or support services for the app.
+                </p>
+            </section>
+
+            <section class="card">
+                <h2>9. Warranty disclaimer</h2>
+                <p>
+                    The app is provided on an "as is" and "as available" basis to the fullest extent permitted by law.
+                    We disclaim all warranties, express, implied, or statutory, including implied warranties of
+                    merchantability, fitness for a particular purpose, and non-infringement.
+                </p>
+            </section>
+
+            <section class="card">
+                <h2>10. Limitation of liability</h2>
+                <p>
+                    To the fullest extent permitted by law, <strong>[DEVELOPER LEGAL NAME]</strong> will not be liable for
+                    indirect, incidental, special, consequential, or punitive damages, or for loss of data, profits,
+                    revenue, or goodwill arising out of or related to the app or these Terms.
+                </p>
+            </section>
+
+            <section class="card">
+                <h2>11. Product claims and legal compliance</h2>
+                <p>
+                    We, not Apple, are responsible for addressing any claims relating to the app, including product liability,
+                    legal or regulatory compliance claims, and consumer protection claims, except as otherwise required by law.
+                </p>
+                <p>
+                    You represent that you are not located in a country subject to a U.S. government embargo, and that
+                    you are not on any U.S. government list of prohibited or restricted parties.
+                </p>
+            </section>
+
+            <section class="card">
+                <h2>12. Third-party beneficiary</h2>
+                <p>
+                    Apple and Apple's subsidiaries are third-party beneficiaries of these Terms and may enforce these Terms against you.
+                </p>
+            </section>
+
+            <section class="card">
+                <h2>13. Contact</h2>
+                <p>
+                    Contact: <a href="mailto:[SUPPORT EMAIL]">[SUPPORT EMAIL]</a>
+                </p>
+                <p>
+                    Business address: <strong>[MAILING ADDRESS OR BUSINESS ADDRESS]</strong>
+                </p>
+            </section>
+        </div>
+    </main>
+</body>
+</html>
